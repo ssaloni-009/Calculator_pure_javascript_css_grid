@@ -1,4 +1,4 @@
-# CCalculator_pure_javascript_css_grid
+# Calculator_pure_javascript_css_grid
 About this Project
 >Responsive Calculator
 >Based on plane Javasript implementing OOPs concept
